@@ -6,7 +6,9 @@ Rich text editor with formatting options.
 Organize notes into categories.
 # Frontend:
 HTML5
+
 CSS3
+
 JavaScript
 
 # Link:https://aditya00-7.github.io/Notes-App/
